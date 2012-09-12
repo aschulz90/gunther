@@ -1,0 +1,16 @@
+<package>
+  <description brief="gunther">
+
+     gunther
+
+  </description>
+  <author>Andreas</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gunther</url>
+  <depend package="usb_cam"/>
+  <depend package="hokuyo_node"/>
+
+</package>
+
+
